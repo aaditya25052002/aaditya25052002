@@ -1,5 +1,5 @@
 - 👋 Hi, I’am Aditya Tiwari
-- 👀 I’m interested in Full stack web3 development, MERN stack development.
+- 👀 I’m interested in Full stack web3 development, MERN stack development and Competetive Programming.
 - 🌱 I’m currently learning Ethereum tech.
 - 💞️ I’m looking to collaborate on blockchain technologies.
 - 📫 socials: twitter:- https://twitter.com/adityatiwarii25 telegram :- https://t.me/adityatiwarii25
