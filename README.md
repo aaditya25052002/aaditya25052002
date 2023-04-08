@@ -31,7 +31,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditya25052002&" alt="aaditya25052002" /></p>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaditya25052002&theme=radical)
 <!---
 aaditya25052002/aaditya25052002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
