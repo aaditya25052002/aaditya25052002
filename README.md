@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/adityatiwarii25" target="blank"><img src="https://img.shields.io/twitter/follow/adityatiwarii25?logo=twitter&style=for-the-badge" alt="adityatiwarii25" /></a> </p>
 
 # About Me:
-Computer Engineering undergrad @LDCE, Software Development Engineer, Currently working on Generative AI principles and increasing LLMs power to creat a super machine, previously worked on NFTS, DeFi and Blockchain, eventually turning ideas into reality.
+Computer Engineering undergrad @LDCE, Software Development Engineer, Currently working on Generative AI principles and increasing LLMs power to create a super machine, previously worked on NFTS, DeFi and Blockchain, eventually turning ideas into reality.
 
 
 ##  Connect with me:
