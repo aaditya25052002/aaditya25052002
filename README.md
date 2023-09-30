@@ -1,5 +1,5 @@
-<h1 align="center">ADITYA TIWARI</h1>
-<h3 align="center">Founding Engineer @Parivartan.web</h3>
+<h1 align="center">Aditya Tiwari</h1>
+<h3 align="center">Software Development Engineer, Ex-Founding Engineer @Parivartan.web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaditya25052002&label=Profile%20views&color=0e75b6&style=flat" alt="aaditya25052002" /> </p>
 
