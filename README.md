@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaditya25052002&label=Profile%20views&color=0e75b6&style=flat" alt="aaditya25052002" /> </p>
 
-
-
-<p align="left"> <a href="https://twitter.com/adityatiwarii25" target="blank"><img src="https://img.shields.io/twitter/follow/adityatiwarii25?logo=twitter&style=for-the-badge" alt="adityatiwarii25" /></a> </p>
-
 # About Me:
 Computer Engineering undergraduate from LDCE. Currently a Software Development Engineer focusing on Generative AI principles. Aiming to harness the power of Large Language Models (LLMs) to engineer a super machine. Previous endeavors include work on DevOps,NFTs, DeFi, and Blockchain technologies. Passionate about transforming innovative ideas into tangible realities.
 
@@ -21,8 +17,7 @@ Computer Engineering undergraduate from LDCE. Currently a Software Development E
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aaditya25052002&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya25052002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aaditya25052002&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+
 
 ---
 
