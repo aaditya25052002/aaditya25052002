@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/adityatiwarii25" target="blank"><img src="https://img.shields.io/twitter/follow/adityatiwarii25?logo=twitter&style=for-the-badge" alt="adityatiwarii25" /></a> </p>
 
 # About Me:
-Computer Engineering undergraduate from LDCE. Currently a Software Development Engineer focusing on Generative AI principles. Aiming to harness the power of Large Language Models (LLMs) to engineer a super machine. Previous endeavors include work on NFTs, DeFi, and Blockchain technologies. Passionate about transforming innovative ideas into tangible realities.
+Computer Engineering undergraduate from LDCE. Currently a Software Development Engineer focusing on Generative AI principles. Aiming to harness the power of Large Language Models (LLMs) to engineer a super machine. Previous endeavors include work on DevOps,NFTs, DeFi, and Blockchain technologies. Passionate about transforming innovative ideas into tangible realities.
 
 
 ##  Connect with me:
